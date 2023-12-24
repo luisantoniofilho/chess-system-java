@@ -34,6 +34,4 @@ public class Position {
 		return getRow() + ", " + getColumn();
 	}
 
-	
-	
 }
